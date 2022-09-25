@@ -13,7 +13,7 @@ Stardew Valley内で使用できない漢字を複数のjsonファイル内か�
 例として  
 下図のようなツリーで本exeファイルを実行すると、図中のjsonファイル全てをチェックします。
 
-![Alt text](C:\Users\a\Downloads\説明図(1).jpg)
+![説明図(1)](https://user-images.githubusercontent.com/113657436/192160901-29180dd2-056f-4090-9ef9-b982ceeaa79b.jpg)
 
 # 使い方
 search_unavailable_kanji.exe をフォルダ内にコピー&ペーストし、実行してください。
@@ -23,11 +23,13 @@ search_unavailable_kanji.exe をフォルダ内にコピー&ペーストし、�
 
 プログラムを実行するとコンソールが起動し、ファイルのチェック状況に応じて「～～～.json - チェック完了」と順番に表示されます。
 
-画像
+![capture229](https://user-images.githubusercontent.com/113657436/192160927-9666a110-7391-4b8d-999c-9f7f8cf4e70a.jpg)
 
-そして全てのjsonファイルのチェックが完了すると結果が表示されます。
+全てのjsonファイルのチェックが完了すると結果が表示されます。
 
-画像
+![capture231](https://user-images.githubusercontent.com/113657436/192160955-6e970a1f-b307-4588-9252-85496f930be8.jpg)
+
+![capture232](https://user-images.githubusercontent.com/113657436/192160968-53b736d9-a839-46e6-81b7-a0219488ebef.jpg)
 
 これらの情報を参考に、jsonファイル内の該当箇所をひらがなや別の表現に修正していきます。  
 行数・何文字目という位置情報は一応ありますが、該当箇所を探すときはCtrl+Fで漢字を検索したほうが早いかもしれません。
